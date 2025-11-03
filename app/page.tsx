@@ -386,7 +386,7 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Detailed Tables */}
+            {/* Detailed Tables & Gantt Charts */}
             <SchedulingTable results={results} />
 
             {/* Comparison Section */}
